@@ -51,6 +51,6 @@ class IfDemo4 {
 		}
 
 		//用三元运算符改进
-		//System.out.println(a>b?"a:"+a:"b:"+b);
+		//System.out.println(a>b? "a:"+a : "b:"+b );
 	}
 }
